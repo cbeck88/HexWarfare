@@ -5,7 +5,7 @@
 
 #ifndef SERVER_BUILD
 #include "SDL.h"
-#endif SERVER_BUILD
+#endif
 
 #if defined(_MSC_VER)
 #include <intrin.h>
